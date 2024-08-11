@@ -54,12 +54,3 @@ php artisan serve --port={custom port}
 username: superadmin@gmail.com
 password: adminadmin
 ```
-<hr>
-
-Terima Kasih kepada:
-- Kaprodi D3 Teknik Informatika
-- Kaprodi S.Tr. Teknologi Rekayasa Komputer
-- Ketua Jurusan Teknik Elektro, Politeknik Negeri Semarang
-- Task Force PBL D3 Teknik Informatika & S.Tr. Teknologi Rekayasa Komputer
-<hr>
-Modifikasi dari Project: https://github.com/mjumain/RBAC-LARAVEL-9
